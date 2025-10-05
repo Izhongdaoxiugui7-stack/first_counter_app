@@ -1,0 +1,19 @@
+# 🧮 Simple Counter App
+
+A beginner-friendly Flutter app that demonstrates the basic usage of `StatefulWidget`, `setState()`, and UI layout using `MaterialApp`, `Scaffold`, and `FloatingActionButton`.
+
+## 📱 Features
+
+- Increment counter with a button tap  
+- Clean layout using Flutter Material Components  
+- A great starting point for beginners
+
+## 🚀 Getting Started
+
+To run this app on your local machine:
+
+```bash
+git clone https://github.com/<your-username>/first_counter_app.git
+cd first_counter_app
+flutter pub get
+flutter run
